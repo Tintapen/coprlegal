@@ -11,21 +11,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!--====== Favicon Icon ======-->
-	<link rel="shortcut icon" href="<?php echo base_url();?>assets/images/favicon.png" type="image/png">
+	<link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/png">
 
 	<!--====== Animate CSS ======-->
-	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/animate.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/animate.css">
 
 	<!--====== Line Icons CSS ======-->
-	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/LineIcons.2.0.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/LineIcons.2.0.css">
 
 	<!--====== Bootstrap CSS ======-->
-	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap-5.0.5-alpha.min.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap-5.0.5-alpha.min.css">
 
 	<!--====== Style CSS ======-->
-	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
 
 </head>
+
 <body>
 	<!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -63,8 +64,7 @@
 							<a class="navbar-brand" href="index.html">
 								<img id="logo" src="assets/images/cla/logo.webp" alt="Logo">
 							</a>
-							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-								aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 								<span class="toggler-icon"></span>
 								<span class="toggler-icon"></span>
 								<span class="toggler-icon"></span>
