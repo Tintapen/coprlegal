@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 
 	<!--====== Title ======-->
-	<title>Learn - Education & Online Course Website Template</title>
+	<title>Corporate Legal Academy</title>
 
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
