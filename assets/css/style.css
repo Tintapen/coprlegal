@@ -84,7 +84,7 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  color: #fff;
+  color: #283747;
   margin: 0px;
 }
 
@@ -1674,23 +1674,23 @@ hero area css
   z-index: -1;
 }
 
-.hero-area .hero-content h2 {
-  font-size: 55px;
+.hero-area .hero-content h3 {
+  font-size: 30px;
   font-weight: 700;
   line-height: 65px;
   color: #fff;
 }
 
 @media (max-width: 767px) {
-  .hero-area .hero-content h2 {
-    font-size: 42px;
+  .hero-area .hero-content h3 {
+    font-size: 25px;
     line-height: 52px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .hero-area .hero-content h2 {
-    font-size: 55px;
+  .hero-area .hero-content h3 {
+    font-size: 30px;
     line-height: 65px;
   }
 }
