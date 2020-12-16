@@ -28,7 +28,7 @@
 				</div>
 				<div class="col-xl-6 col-lg-6">
 					<div class="welcome-img">
-						<img src="assets/images/cla/panitia.webp" alt="">
+						<img src="<?= site_url('assets/images/cla/panitia.webp') ?>" alt="">
 					</div>
 				</div>
 			</div>

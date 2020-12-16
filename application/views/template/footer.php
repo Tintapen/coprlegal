@@ -4,9 +4,9 @@
 		<div class="row">
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="footer-widget">
-					<h2 class="mb-35 wow fadeInUp" data-wow-delay=".2s">Corporate</h2>
-					<h2 class="mb-35 wow fadeInUp" data-wow-delay=".2s">Legal</h2>
-					<h2 class="mb-35 wow fadeInUp" data-wow-delay=".2s">Academy</h2>
+					<h5 class="mb-35 wow fadeInUp" data-wow-delay=".2s">Corporate</h5>
+					<h5 class="mb-35 wow fadeInUp" data-wow-delay=".2s">Legal</h5>
+					<h5 class="mb-35 wow fadeInUp" data-wow-delay=".2s">Academy</h5>
 				</div>
 			</div>
 			<div class="col-xl-3 col-lg-3 offset-xl-1 offset-lg-1 col-md-6">
@@ -14,7 +14,7 @@
 					<h5>Quick Links</h5>
 					<ul>
 						<li><a href="#home">Home</a></li>
-						<li><a href="#about-us">About Us</a></li>
+						<li><a href="#about-cla">About Cla</a></li>
 						<li><a href="#our-speaker">Ourspeaker</a></li>
 						<li><a href="#session">Session</a></li>
 						<li><a href="#publication">Publication</a></li>
@@ -27,11 +27,11 @@
 				<div class="footer-widget">
 					<h5>Contact Us</h5>
 					<ul>
-						<li><i class="lni lni-phone"></i>+62 8123 4567 8910</li>
-						<li><i class="lni lni-envelope"></i> cla@gmail.com</li>
-						<li><i class="lni lni-facebook-filled"></i> Facebook </li>
-						<li><i class="lni lni-instagram-filled"></i> Instagram </li>
-						<li><i class="lni lni-linkedin-original	"></i> Linked in</li>
+						<li><a href="tel:+62812345678910"><i class="lni lni-phone"></i> +62 8123 4567 8910 </a></li>
+						<li><a href="mailto: cla@gmail.com"><i class="lni lni-envelope"></i> cla@gmail.com </a></li>
+						<li><a href="#"><i class="lni lni-facebook-filled"></i> Facebook </a></li>
+						<li><a href="#"><i class="lni lni-instagram-filled"></i> Instagram </a></li>
+						<li><a href="#"><i class="lni lni-linkedin-original	"></i> Linked in </a></li>
 					</ul>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="copy-right text-center text-md-left">
-						<p>CLA @2020</p>
+						<p>CLA @<?= date('Y') ?></p>
 					</div>
 				</div>
 			</div>
