@@ -1646,19 +1646,19 @@ hero area css
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero-area {
-    padding: 220px 0px 180px;
+    padding: 80px 0px 180px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero-area {
-    padding: 220px 0px 180px;
+    padding: 80px 0px 180px;
   }
 }
 
 @media (max-width: 767px) {
   .hero-area {
-    padding: 220px 0px 180px;
+    padding: 80px 0px 180px;
   }
 }
 
@@ -1677,21 +1677,21 @@ hero area css
 .hero-area .hero-content h3 {
   font-size: 30px;
   font-weight: 700;
-  line-height: 65px;
+  line-height: 50px;
   color: #fff;
 }
 
 @media (max-width: 767px) {
   .hero-area .hero-content h3 {
     font-size: 25px;
-    line-height: 52px;
+		line-height: 25px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .hero-area .hero-content h3 {
     font-size: 30px;
-    line-height: 65px;
+    line-height: 25px;
   }
 }
 
@@ -2356,7 +2356,8 @@ footer css
 .footer-area .footer-widget h5 {
   font-size: 20px;
   font-weight: 500;
-  margin-bottom: 35px;
+	margin-bottom: 35px;
+	line-height: 5px;
 }
 
 .footer-area .footer-widget ul li a {
@@ -2366,7 +2367,7 @@ footer css
 }
 
 .footer-area .footer-widget ul li a:hover {
-  color: #F2A92C;
+  color: #121213;
 }
 
 .footer-area .footer-widget ul li p {
@@ -2408,6 +2409,6 @@ footer css
 }
 
 .footer-area .footer-credit .footer-social ul li a:hover {
-  color: #F2A92C;
+  color: #0808f3;
 }
 /*# sourceMappingURL=style.css.map */
