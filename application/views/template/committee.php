@@ -3,8 +3,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="section-title">
-				<h2 class="wow fadeInUp text-center" data-wow-delay=".2s">Committee</h2>
-				<p class="wow fadeInUp text-center" data-wow-delay=".4s">Corporate Legal Academy Committee</p>
+				<h2 class="wow fadeInUp text-center" data-wow-delay=".2s">Committee Structure of Corporate Legal Academy</h2>
+			<!--<p class="wow fadeInUp text-center" data-wow-delay=".4s">Corporate Legal Academy Committee</p>-->
 			</div>
 		</div>
 		<style>
@@ -75,6 +75,7 @@
 					</div>
 				</div>
 			</div>
+			<div class="row">
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="single-blog">
@@ -86,12 +87,30 @@
 							</h10>
 						</div>
 						<div class="blog-content">
-							<h4>James Xaverius</h4>
-							<p>Head Of Committee</p>
+							<h4>Shane Patrick</h4>
+							<p>Project Officer</p>
 						</div>
 					</div>
 				</div>
 			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="single-blog">
+						<div class="blog-img">
+							<h10>
+								<!--<a href="javascript:void(0)" class="d-block">-->
+									<img src="assets/images/cla/Data/james.jpg" alt="">
+								<!--</a>-->
+							</h10>
+						</div>
+						<div class="blog-content">
+							<h4>Abiel Cale</h4>
+							<p>Vice Project Officer</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="double-blog">
 					<div class="blog-imgs">
@@ -111,26 +130,11 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/fiera.jpg" alt="">
-								<!--</a>-->
-							</div>
-							<div class="blog-content">
-								<h4>Feira Salsabila Nadiaputri</h4>
-								<p>Vice Head of Committee</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-xl-4 col-lg-4 col-md-6">
-					<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-						<div class="single-blog">
-							<div class="blog-img">
-								<!--<a href="javascript:void(0)" class="d-block">-->
 									<img src="assets/images/cla/Data/jocelyn.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Jocelyn Erlinda</h4>
+								<h4>Jessica Yemima</h4>
 								<p>Secretary</p>
 							</div>
 						</div>
@@ -145,7 +149,7 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Gabriella Angelica Jyaspixova</h4>
+								<h4>Kevin Veronica Halim</h4>
 								<p>Treasurer</p>
 							</div>
 						</div>
@@ -160,8 +164,8 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Nadifa Larasati Aripasya</h4>
-								<p>Coordinator of Media</p>
+								<h4>Gibran Bali</h4>
+								<p>Event</p>
 							</div>
 						</div>
 					</div>
@@ -175,8 +179,8 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Jonathan Sastyoviandi Lebe</h4>
-								<p>Coordinator of Registration</p>
+								<h4>Kent Victory</h4>
+								<p>Registration</p>
 							</div>
 						</div>
 					</div>
@@ -190,8 +194,8 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Stefanus Odelio Summa Gaudia</h4>
-								<p>Coordinator of Logistic</p>
+								<h4>Clarisa Martina</h4>
+								<p>Logistic</p>
 							</div>
 						</div>
 					</div>
@@ -205,8 +209,8 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Ryan Ricardo</h4>
-								<p>Coordinator of Event</p>
+								<h4>Vanesa Togatorop</h4>
+								<p>Documentation</p>
 							</div>
 						</div>
 					</div>
@@ -220,8 +224,8 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Elvina Mayang Gadis Fardila</h4>
-								<p>Coordinator of Marketing</p>
+								<h4>Meidita Rahmawati</h4>
+								<p>Marketing & Branding</p>
 							</div>
 						</div>
 					</div>
@@ -235,8 +239,23 @@
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
-								<h4>Aurelia Suci Sianturi</h4>
-								<p>Coordinator of Sponsorship</p>
+								<h4>Patricia Inggrid</h4>
+								<p>Sponsorship</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-6">
+					<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+						<div class="single-blog">
+							<div class="blog-img">
+								<!--<a href="javascript:void(0)" class="d-block">-->
+									<img src="assets/images/cla/Data/suci.jpg" alt="">
+								<!--</a>-->
+							</div>
+							<div class="blog-content">
+								<h4>Gabriella Jasmine</h4>
+								<p>Design</p>
 							</div>
 						</div>
 					</div>

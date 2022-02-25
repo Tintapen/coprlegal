@@ -27,11 +27,9 @@
 				<div class="footer-widget">
 					<h5>Contact Us</h5>
 					<ul>
-						<li><a href="tel:+62812345678910"><i class="lni lni-phone"></i> +62 8123 4567 8910 </a></li>
-						<li><a href="mailto: cla@gmail.com"><i class="lni lni-envelope"></i> cla@gmail.com </a></li>
-						<li><a href="#"><i class="lni lni-facebook-filled"></i> Facebook </a></li>
-						<li><a href="#"><i class="lni lni-instagram-filled"></i> Instagram </a></li>
-						<li><a href="#"><i class="lni lni-linkedin-original	"></i> Linked in </a></li>
+						<li><a href="mailto: corplegalacademy@gmail.com"><i class="lni lni-envelope"></i> corplegalacademy@gmail.com</a></li>
+						<li><a href="https://www.instagram.com/corplegalacademy"><i class="lni lni-instagram-filled"></i> corplegalacademy</a></li>
+						<li><a href="https://www.linkedin.com/company/corporate-legal-academy"><i class="lni lni-linkedin-original	"></i> Corporate Legal Academy</a></li>
 					</ul>
 				</div>
 			</div>

@@ -72,7 +72,7 @@
 							<div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
 								<ul id="nav" class="navbar-nav ml-auto">
 									<li class="nav-item">
-										<a class="page-scroll" href="#home">Home</a>
+										<a class="page-scroll" href="#home">About CLA</a>
 									</li>
 									<li class="nav-item">
 										<a class="page-scroll" href="#about-cla">About CLA</a>
@@ -87,7 +87,7 @@
 										<a class="page-scroll" href="#publication">publication</a>
 									</li>
 									<li class="nav-item">
-										<a class="page-scroll" href="#comittess">The Comittess</a>
+										<a class="page-scroll" href="#committee">The Committess</a>
 									</li>
 								</ul>
 							</div> <!-- navbar collapse -->
