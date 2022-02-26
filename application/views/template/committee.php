@@ -61,20 +61,8 @@
 				/*color: #F2A92C;*/
 			}
 		</style>
-		<div class='row'>
-			<div class="col-xl-4 col-lg-4 col-md-6">
-				<div class="double-blog">
-					<div class="blog-imgs">
-						<a href="javascript:void(0)" class="d-block">
-							<!-- <img src="assets/images/cla/data/fiera.jpg" alt=""> -->
-						</a>
-					</div>
-					<div class="blog-contents">
-						<!-- <h4><a href="javascript:void(0)">Feira Salsabila Nadiaputri</a></h4> -->
-						<!-- <p>Voice Head of Committee</p> -->
-					</div>
-				</div>
-			</div>
+		<div class="row">
+
 			<div class="row">
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
@@ -82,7 +70,7 @@
 						<div class="blog-img">
 							<h10>
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/james.jpg" alt="">
+									<img src="assets/images/cla2/shane patrick.jpeg" alt="">
 								<!--</a>-->
 							</h10>
 						</div>
@@ -99,7 +87,7 @@
 						<div class="blog-img">
 							<h10>
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/james.jpg" alt="">
+									<img src="assets/images/cla2/Abiel Cale.jpg" alt="">
 								<!--</a>-->
 							</h10>
 						</div>
@@ -111,26 +99,14 @@
 				</div>
 			</div>
 		</div>
-			<div class="col-xl-4 col-lg-4 col-md-6">
-				<div class="double-blog">
-					<div class="blog-imgs">
-						<a href="javascript:void(0)" class="d-block">
-							<!-- <img src="assets/images/cla/data/fiera.jpg" alt=""> -->
-						</a>
-					</div>
-					<div class="blog-contents">
-						<!-- <h4><a href="javascript:void(0)">Feira Salsabila Nadiaputri</a></h4> -->
-						<!-- <p>Vice Head of Committee</p> -->
-					</div>
-				</div>
-			</div>
+		
 			<div class="row">
 				<div class="col-xl-4 col-lg-4 col-md-6">
 					<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/jocelyn.jpg" alt="">
+									<img src="assets/images/cla2/Jessica Yemima.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -145,7 +121,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/Gabriella.jpg" alt="">
+									<img src="assets/images/cla2/Kevin Veronica.jpeg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -160,7 +136,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/nadifa.jpg" alt="">
+									<img src="assets/images/cla2/Gibran Bali.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -175,7 +151,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/jonathan.jpg" alt="">
+									<img src="assets/images/cla2/Kent Victory.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -190,7 +166,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/stefanus.jpg" alt="">
+									<img src="assets/images/cla2/Clarisa Martina.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -205,7 +181,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/ryan.jpg" alt="">
+									<img src="assets/images/cla2/Vanesa Togatorop.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -220,7 +196,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/elvina.jpg" alt="">
+									<img src="assets/images/cla2/Meidita Rahmawati.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -235,7 +211,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/suci.jpg" alt="">
+									<img src="assets/images/cla2/Patricia Ingrid.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
@@ -250,7 +226,7 @@
 						<div class="single-blog">
 							<div class="blog-img">
 								<!--<a href="javascript:void(0)" class="d-block">-->
-									<img src="assets/images/cla/Data/suci.jpg" alt="">
+									<img src="assets/images/cla2/Gabriella Jasmine.jpg" alt="">
 								<!--</a>-->
 							</div>
 							<div class="blog-content">
