@@ -26,11 +26,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xl-6 col-lg-6">
-					<div class="welcome-img">
-						<img src="<?= site_url('assets/images/cla/panitia.webp') ?>" alt="">
-					</div>
-				</div>
 			</div>
 		</div>
 	</section>

@@ -62,8 +62,12 @@
 			}
 		</style>
 		<div class="row">
-
+		
+		<h3 class="mb-30 wow fadeInUp text-center" text-align="center" data-wow-delay=".2s">Our Leader</h3>
+		
 			<div class="row">
+			<div class="col-xl-4 col-lg-4 col-md-6">
+			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="single-blog">
@@ -81,6 +85,9 @@
 					</div>
 				</div>
 			</div>
+		
+		</div>
+		<div class="row">
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="single-blog">
@@ -98,9 +105,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		
-			<div class="row">
 				<div class="col-xl-4 col-lg-4 col-md-6">
 					<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 						<div class="single-blog">
@@ -131,6 +135,7 @@
 						</div>
 					</div>
 				</div>
+				<h3 class="mb-30 wow fadeInUp text-center" text-align="center" data-wow-delay=".2s">Our Team</h3>
 				<div class="col-xl-4 col-lg-4 col-md-6">
 					<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 						<div class="single-blog">
@@ -221,6 +226,8 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-xl-4 col-lg-4 col-md-6">
+			</div>
 				<div class="col-xl-4 col-lg-4 col-md-6">
 					<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 						<div class="single-blog">
