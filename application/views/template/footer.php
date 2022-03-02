@@ -13,12 +13,11 @@
 				<div class="footer-widget">
 					<h5>Quick Links</h5>
 					<ul>
-						<li><a href="#home">Home</a></li>
-						<li><a href="#about-cla">About Cla</a></li>
-						<li><a href="#our-speaker">Ourspeaker</a></li>
+						<li><a href="#home">About CLA</a></li>
+						<li><a href="#our-speaker">Our Speaker</a></li>
 						<li><a href="#session">Session</a></li>
 						<li><a href="#publication">Publication</a></li>
-						<li><a href="#commitess">The Committess</a></li>
+						<li><a href="#committee">The Committess</a></li>
 
 					</ul>
 				</div>
