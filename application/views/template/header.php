@@ -80,9 +80,9 @@
 									<li class="nav-item">
 										<a class="page-scroll" href="#session">Session</a>
 									</li>
-									<li class="nav-item">
+									<!-- <li class="nav-item">
 										<a class="page-scroll" href="#publication">publication</a>
-									</li>
+									</li> -->
 									<li class="nav-item">
 										<a class="page-scroll" href="#committee">The Committess</a>
 									</li>

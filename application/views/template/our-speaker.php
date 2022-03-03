@@ -5,7 +5,7 @@
 			<div class="col-xl-6 col-lg-7 col-md-10 mx-auto">
 				<div class="section-title text-center">
 					<h2 class="mb-15 wow fadeInUp" data-wow-delay=".2s">Our Speaker</h2>
-					<p class="wow fadeInUp" data-wow-delay=".4s">Pembicara Yang Handal dan Berpengalaman</p>
+					<p class="wow fadeInUp" data-wow-delay=".4s">Great Speaker Will be Announced Soon !</p>
 				</div>
 			</div>
 		</div>
@@ -13,66 +13,66 @@
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla/data/fiera.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Fiera Salsabila Nadiaputri</h4>
-						<p>Tentang pembicara. Skill, Pengalaman dan kelebihan yang dimiliki pembicara ini bisa ditulis disini.</p>
+						<h4>To Be Announced</h4>
+						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla/data/fiera.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Fiera Salsabila Nadiaputri</h4>
-						<p>Tentang pembicara. Skill, Pengalaman dan kelebihan yang dimiliki pembicara ini bisa ditulis disini. contoh Jika text lebih banyak akankah turun atau bagaimana, ini hasilnya.</p>
+						<h4>To Be Announced</h4>
+						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla/data/fiera.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Fiera Salsabila Nadiaputri</h4>
-						<p>Tentang pembicara. Skill, Pengalaman dan kelebihan yang dimiliki pembicara ini bisa ditulis disini.</p>
+						<h4>To Be Announced</h4>
+						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla/data/fiera.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Fiera Salsabila Nadiaputri</h4>
-						<p>Tentang pembicara. Skill, Pengalaman dan kelebihan yang dimiliki pembicara ini bisa ditulis disini.</p>
+						<h4>To Be Announced</h4>
+						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla/data/fiera.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Fiera Salsabila Nadiaputri</h4>
-						<p>Tentang pembicara. Skill, Pengalaman dan kelebihan yang dimiliki pembicara ini bisa ditulis disini.</p>
+						<h4>To Be Announced</h4>
+						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla/data/fiera.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Fiera Salsabila Nadiaputri</h4>
-						<p>Tentang pembicara. Skill, Pengalaman dan kelebihan yang dimiliki pembicara ini bisa ditulis disini.</p>
+						<h4>To Be Announced</h4>
+						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
 			</div>
