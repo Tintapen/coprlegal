@@ -1,5 +1,5 @@
 <!-- ====== COMMITESS PART START ======-->
-<section id="committee" class="blog-area pt-170 pb-140">
+<section id="committee" class="blog-area pt-50 pb-140">
 	<div class="container">
 		<div class="row">
 			<div class="section-title">
