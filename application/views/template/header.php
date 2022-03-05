@@ -61,7 +61,7 @@
 				<div class="row align-items-center">
 					<div class="col-xl-12">
 						<nav class="navbar navbar-expand-lg">
-							<a class="navbar-brand" href="index.html">
+							<a class="navbar-brand" href="#home">
 								<img id="logo" src="assets/images/cla/logo.webp" alt="Logo">
 							</a>
 							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

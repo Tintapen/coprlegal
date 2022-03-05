@@ -3,8 +3,8 @@
 		<div class="container">
 			<div class="row">
 					<div class="section-title">
-						<h2 class="wow fadeInUp text-center" data-wow-delay=".2s">Rundown</h2>
-						<div class="row portfolio-description">
+						<h2 class="mb-30 wow fadeInUp text-center" data-wow-delay=".2s">Rundown</h2>
+						<div class="row align-items-center">
  				<div class="col-5 col-sm-3">
  					<div class="nav flex-column nav-tabs h-100" id="vert-tabs-tab" role="tablist" aria-orientation="vertical">
  						<a class="nav-link active" id="vert-tabs-home-tab" data-toggle="pill" href="#vert-tabs-home" role="tab" aria-controls="vert-tabs-home" aria-selected="true">Day 1 : Friday, 25 March 2022</a>
