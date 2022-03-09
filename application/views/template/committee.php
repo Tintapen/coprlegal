@@ -1,5 +1,59 @@
+<style>
+	.blog-area .double-blog {
+		/*overflow: hidden;*/
+		border-radius: 10px;
+		margin-bottom: 30px;
+		/*background: #fff;*/
+		/*-webkit-transition: all 0.3s ease-out 0s;*/
+		/*transition: all 0.3s ease-out 0s;*/
+		/*-webkit-box-shadow: 0px 0px 61px rgba(229, 229, 229, 0.35);*/
+		/*box-shadow: 0px 0px 61px rgba(229, 229, 229, 0.35);*/
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog:hover {
+		/*-webkit-box-shadow: 0px 15px 61px rgba(229, 229, 229, 0.7);*/
+		/*box-shadow: 0px 15px 61px rgba(229, 229, 229, 0.7);*/
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog:hover .blog-img a img {
+		/*-webkit-transform: scale(1.2);*/
+		/*transform: scale(1.2);*/
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog .blog-img {
+		/*overflow: hidden;*/
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog .blog-imgs a img {
+		width: 100%;
+		/*-webkit-transition: all 0.3s ease-out 0s;*/
+		/*transition: all 0.3s ease-out 0s;*/
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog .blog-contents {
+		padding: 30px 25px;
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog .blog-contents h4 a {
+		font-size: 24px;
+		line-height: 32px;
+		font-weight: 500;
+		margin-bottom: 15px;
+		margin: 0 auto;
+	}
+
+	.blog-area .double-blog .blog-contents h4 a:hover {
+		/*color: #F2A92C;*/
+	}
+</style>
 <!-- ====== COMMITESS PART START ======-->
-<section id="committee" class="blog-area pt-50 pb-140">
+<section id="committee" class="blog-area pt-170 pb-140">
 	<div class="container">
 		<div class="row">
 			<div class="section-title">
@@ -7,60 +61,6 @@
 				<!--<p class="wow fadeInUp text-center" data-wow-delay=".4s">Corporate Legal Academy Committee</p>-->
 			</div>
 		</div>
-		<style>
-			.blog-area .double-blog {
-				/*overflow: hidden;*/
-				border-radius: 10px;
-				margin-bottom: 30px;
-				/*background: #fff;*/
-				/*-webkit-transition: all 0.3s ease-out 0s;*/
-				/*transition: all 0.3s ease-out 0s;*/
-				/*-webkit-box-shadow: 0px 0px 61px rgba(229, 229, 229, 0.35);*/
-				/*box-shadow: 0px 0px 61px rgba(229, 229, 229, 0.35);*/
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog:hover {
-				/*-webkit-box-shadow: 0px 15px 61px rgba(229, 229, 229, 0.7);*/
-				/*box-shadow: 0px 15px 61px rgba(229, 229, 229, 0.7);*/
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog:hover .blog-img a img {
-				/*-webkit-transform: scale(1.2);*/
-				/*transform: scale(1.2);*/
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog .blog-img {
-				/*overflow: hidden;*/
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog .blog-imgs a img {
-				width: 100%;
-				/*-webkit-transition: all 0.3s ease-out 0s;*/
-				/*transition: all 0.3s ease-out 0s;*/
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog .blog-contents {
-				padding: 30px 25px;
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog .blog-contents h4 a {
-				font-size: 24px;
-				line-height: 32px;
-				font-weight: 500;
-				margin-bottom: 15px;
-				margin: 0 auto;
-			}
-
-			.blog-area .double-blog .blog-contents h4 a:hover {
-				/*color: #F2A92C;*/
-			}
-		</style>
 		<div class="row">
 
 			<h3 class="mb-30 wow fadeInUp text-center" text-align="center" data-wow-delay=".2s">Our Leader</h3>

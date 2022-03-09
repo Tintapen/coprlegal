@@ -1,5 +1,5 @@
 <!--====== Our Speaker PART START ======-->
-<section id="our-speaker" class="skill-area pt-50">
+<section id="our-speaker" class="team-area pt-170 pb-140">
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-6 col-lg-7 col-md-10 mx-auto">
@@ -76,7 +76,6 @@
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</div>
 </section>
