@@ -88,7 +88,7 @@
 									<li>
 										<b>10pm - 12pm Session</b>
 									</li>
-									Legal and Business Aspects Related to Mergers and Acquisitions for Public
+									Legal and Business Aspects Related to Mergers and Acquisitions for Public Companies
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-settings5" role="tabpanel" aria-labelledby="vert-tabs-settings5-tab">
