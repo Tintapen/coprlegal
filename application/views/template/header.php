@@ -20,7 +20,9 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/LineIcons.2.0.css">
 
 	<!--====== Bootstrap CSS ======-->
-	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap-5.0.5-alpha.min.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<!-- <link rel="stylesheet" href="<? //php echo base_url(); 
+										?>assets/css/bootstrap-5.0.5-alpha.min.css"> -->
 
 	<!--====== Style CSS ======-->
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
@@ -70,7 +72,7 @@
 								<span class="toggler-icon"></span>
 							</button>
 							<div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
-								<ul id="nav" class="navbar-nav ml-auto">
+								<ul id="nav" class="navbar-nav ms-auto">
 									<li class="nav-item">
 										<a class="page-scroll" href="#home">Home</a>
 									</li>
