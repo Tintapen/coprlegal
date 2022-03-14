@@ -1666,11 +1666,11 @@ hero area css
   content: '';
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 80%;
   top: 0;
   left: 0;
   background: rgba(1, 66, 141, 0.97);
-  /*background: #fff;*/
+  /* background: #fff; */
   z-index: -1;
 }
 
