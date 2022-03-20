@@ -11,13 +11,79 @@
 		</div>
 		<div class="row">
 			<div class="col-xl-4 col-lg-4 col-md-6">
-				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-					<div class="">
-						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">	
+				<div class="">
+						<img src="<?= site_url('assets/images/cla2/Ken Prasadtyo, S.H., LL.M.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>To Be Announced</h4>
-						<p>Great Speaker Will be Announced Soon !</p>
+						<h4>Ken Prasadtyo, S.H., LL.M.</h4>
+						<p>Partner at Tjajo & Partners</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/Benny Handoko, S.H., LL.M.png') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Benny Handoko, S.H., LL.M</h4>
+						<p>Partner at AYMP Law Firm</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/Pia A.R. Akbar-Nasution, S.H., LL.M.png') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Pia A.R. Akbar-Nasution, S.H., LL.M.</h4>
+						<p>Managing Partner at Adnan Buyung Nasution & Partners</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/Rudi Bachtiar, S.H., LL.M.png') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Rudi Bachtiar, S.H., LL.M.</h4>
+						<p>Partner at ARMA Law</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/Dendy Adisuryo, S.H.png') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Dendi Adisuryo, S.H.</h4>
+						<p>Managing Partner at ADCO Law</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/Citra Maria, S.H.png') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Citra Maria, S.H. </h4>
+						<p>Legal & Compliance at PT. Terang Bagi Bangsa</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/Raymond Hioeras, S.H.png') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Raymond Hioeras, S.H.</h4>
+						<p>Senior Legal at Tokopedia</p>
 					</div>
 				</div>
 			</div>
@@ -27,41 +93,8 @@
 						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>To Be Announced</h4>
-						<p>Great Speaker Will be Announced Soon !</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xl-4 col-lg-4 col-md-6">
-				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-					<div class="">
-						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
-					</div>
-					<div class="skill-content">
-						<h4>To Be Announced</h4>
-						<p>Great Speaker Will be Announced Soon !</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xl-4 col-lg-4 col-md-6">
-				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-					<div class="">
-						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
-					</div>
-					<div class="skill-content">
-						<h4>To Be Announced</h4>
-						<p>Great Speaker Will be Announced Soon !</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xl-4 col-lg-4 col-md-6">
-				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-					<div class="">
-						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
-					</div>
-					<div class="skill-content">
-						<h4>To Be Announced</h4>
-						<p>Great Speaker Will be Announced Soon !</p>
+						<h4>Nelson Zelig, S.Psi. </h4>
+						<p>Recruitment Specialist at Siloam Hospitals Group</p>
 					</div>
 				</div>
 			</div>
