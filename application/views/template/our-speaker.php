@@ -12,13 +12,15 @@
 		<div class="row">
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-					<div class="">
+				<a href="#ken">
+				<div class="">
 						<img src="<?= site_url('assets/images/cla2/Ken Prasadtyo, S.H., LL.M.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
 						<h4>Ken Prasadtyo, S.H., LL.M.</h4>
 						<p>Partner at Tjajo & Partners</p>
 					</div>
+					</a>	
 				</div>
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">

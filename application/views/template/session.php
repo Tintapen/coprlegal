@@ -21,7 +21,7 @@
 					<div class="col-7 col-sm-9">
 						<div class="tab-content" id="vert-tabs-tabContent">
 							<div class="tab-pane text-left fade show active" id="vert-tabs-home" role="tabpanel" aria-labelledby="vert-tabs-home-tab">
-								<h5>Project Finance</h5>
+								<h5>Project Finance</h5><br>
 								<ul>
 									<li>
 										<b>10pm - 12pm Session</b>
