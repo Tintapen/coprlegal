@@ -25,8 +25,14 @@
 								<ul>
 									<li>
 										<b>10pm - 12pm Session</b>
+									<li>The Perfection of Pledge, Fiduciary, and Mortgage and Its Scheme of Execution	
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1629/internal-the-perfection-of-pledge?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
 									</li>
-									The Perfection of Pledge, Fiduciary, and Mortgage and Its Scheme of Execution
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-profile" role="tabpanel" aria-labelledby="vert-tabs-profile-tab">
@@ -34,6 +40,13 @@
 								<ul>
 									<li><b>10pm - 12pm Session</b></li>
 									Project Financing In Indonesian Highway Construction
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1631/internal-project-financing-in-indonesian-highway?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-messages" role="tabpanel" aria-labelledby="vert-tabs-messages-tab">
@@ -43,6 +56,13 @@
 										<b>10pm - 12pm Session</b>
 									</li>
 									Legal Aspects and Impact of Stock Delisting
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1633/internal-legal-aspects-and-impact-of-stock?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-settings" role="tabpanel" aria-labelledby="vert-tabs-settings-tab">
@@ -52,6 +72,13 @@
 										<b>10pm - 12pm Session</b>
 									</li>
 									The Legal Aspect of Global and National Bonds Offering
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1635/internal-the-legal-aspect-of-bond-offering?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-settings1" role="tabpanel" aria-labelledby="vert-tabs-settings1-tab">
@@ -61,6 +88,13 @@
 										<b>10pm - 12pm Session</b>
 									</li>
 									Renewable Resources and The New Regime of Carbon Policy to Improve Green Environment
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1637/internal-renewable-resources-and-the-new-regime?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 
 							</div>
@@ -71,6 +105,13 @@
 										<b>10pm - 12pm Session</b>
 									</li>
 									Nickel downstream In The Electronic Vehicle Development Process
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1629/internal-the-perfection-of-pledge?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-settings3" role="tabpanel" aria-labelledby="vert-tabs-settings3-tab">
@@ -80,6 +121,13 @@
 										<b>10pm - 12pm Session</b>
 									</li>
 									Legal Aspects in Corporate Restructuring
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1629/internal-the-perfection-of-pledge?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-settings4" role="tabpanel" aria-labelledby="vert-tabs-settings4-tab">
@@ -89,6 +137,13 @@
 										<b>10pm - 12pm Session</b>
 									</li>
 									Legal and Business Aspects Related to Mergers and Acquisitions for Public Companies
+									<li> <br>
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<a href="https://kiostix.com/id/event/1629/internal-the-perfection-of-pledge?is_qb=1&token=431798">
+										<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+									</a>
+									</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="vert-tabs-settings5" role="tabpanel" aria-labelledby="vert-tabs-settings5-tab">
