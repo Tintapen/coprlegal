@@ -16,7 +16,7 @@
 						<li><a href="#home">Home</a></li>
 						<li><a href="#about-cla">About CLA</a></li>
 						<li><a href="#our-speaker">Our Speaker</a></li>
-						<li><a href="#session">Session</a></li>
+						<li><a href="#registration">Registration</a></li>
 						<!-- <li><a href="#publication">Publication</a></li> -->
 						<li><a href="#committee">The Committess</a></li>
 

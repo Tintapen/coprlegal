@@ -83,7 +83,7 @@
 										<a class="page-scroll" href="#our-speaker">Our Speaker</a>
 									</li>
 									<li class="nav-item">
-										<a class="page-scroll" href="#session">Session</a>
+										<a class="page-scroll" href="#registration">Registration</a>
 									</li>
 									<!-- <li class="nav-item">
 										<a class="page-scroll" href="#publication">publication</a>
