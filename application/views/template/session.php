@@ -14,6 +14,7 @@
 						<button class="nav-link text-start" id="daysix-tab" data-bs-toggle="pill" data-bs-target="#daysix" type="button" role="tab" aria-controls="daysix" aria-selected="false">Day 6 : Saturday, 23 April 2022</button>
 						<button class="nav-link text-start" id="dayseven-tab" data-bs-toggle="pill" data-bs-target="#dayseven" type="button" role="tab" aria-controls="dayseven" aria-selected="false">Day 7 : Saturday, 30 April 2022</button>
 						<button class="nav-link text-start" id="dayeight-tab" data-bs-toggle="pill" data-bs-target="#dayeight" type="button" role="tab" aria-controls="dayeight" aria-selected="false">Day 8 : Saturday, 7 May 2022</button>
+						<button class="nav-link text-start" id="allinone-tab" data-bs-toggle="pill" data-bs-target="#allinone" type="button" role="tab" aria-controls="allinone" aria-selected="false">All In One Platinum Package</button>
 					</div>
 					<div class="tab-content" id="v-pills-tabContent">
 						<div class="tab-pane fade show active" id="dayone" role="tabpanel" aria-labelledby="dayone-tab">
@@ -79,7 +80,8 @@
 							<div class="mb-5">
 								<h7 class="mb-auto">10pm - 12pm Session</h7>
 								<ul style="list-style-type: square">
-									<li>Renewable Resources and The New Regime of Carbon Policy to Improve Green Environment</li>
+									<li>Renewable Resources and The New Regime of Carbon <br>
+									Policy to Improve Green Environment</li>
 								</ul>
 							</div>
 							<div class="row align-items-center">
@@ -108,7 +110,8 @@
 							<div class="mb-5">
 								<h7 class="mb-auto">10pm - 12pm Session</h7>
 								<ul style="list-style-type: square">
-									<li>Nickel downstream In The Electronic Vehicle Development Process</li>
+									<li>Nickel downstream In The Electronic Vehicle Development <br>
+									Process</li>
 								</ul>
 							</div>
 							<div class="row align-items-center">
@@ -195,7 +198,8 @@
 							<div class="mb-5">
 								<h7 class="mb-auto">10pm - 12pm Session</h7>
 								<ul style="list-style-type: square">
-									<li>Legal and Business Aspects Related to Mergers and Acquisitions for Public Companies</li>
+									<li>Legal and Business Aspects Related to Mergers and <br>
+									Acquisitions for Public Companies</li>
 								</ul>
 							</div>
 							<div class="row align-items-center">
@@ -243,6 +247,30 @@
 									Public<br>
 									<div class="welcome-img">
 										<a href="https://kiostix.com/id/event/1649/external-how-to-make-a-proper-cv?is_qb=1&token=431798" target="_blank">
+											<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="allinone" role="tabpanel" aria-labelledby="allinone-tab">
+							<h4>All in One Platinum Package</h4>
+							<br>
+							<div class="row align-items-center">
+								<div class="col-xl-6 col-lg-6">
+									<b>Order Tickets Here :</b><br>
+									Atma Jaya Students<br>
+									<div class="welcome-img">
+										<a href="https://kiostix.com/id/event/1650/internal-platinum-package?is_qb=1&token=431798" target="_blank">
+											<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
+										</a>
+									</div>
+								</div>
+								<div class="col-xl-6 col-lg-6">
+									<b> </b><br>
+									Public<br>
+									<div class="welcome-img">
+										<a href="https://kiostix.com/id/event/1651/external-platinum-package?is_qb=1&token=431798" target="_blank">
 											<img src="<?= site_url('assets/images/cla2/kiostix.png') ?>" alt="" width="200" height="75">
 										</a>
 									</div>
