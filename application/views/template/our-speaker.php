@@ -93,12 +93,12 @@
 						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Nelson Zelig, S.Psi. </h4>
+						<h4>Special Guest</h4>
 						<p>Recruitment Specialist at Siloam Hospitals Group</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-xl-4 col-lg-4 col-md-6">
+			<!-- <div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
 					<div class="">
 						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
@@ -108,7 +108,7 @@
 						<p>Great Speaker Will be Announced Soon !</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>
