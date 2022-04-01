@@ -38,13 +38,13 @@
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
-					<a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#detailPia">
+					<a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#detailIndra">
 						<div class="">
-							<img src="<?= site_url('assets/images/cla2/Pia A.R. Akbar-Nasution, S.H., LL.M.png') ?>" alt="">
+							<img src="<?= site_url('assets/images/cla2/Indra Nathan Kusnadi, S.H., M.H.jpg') ?>" alt="">
 						</div>
 						<div class="skill-content">
-							<h4>Pia A.R. Akbar-Nasution, S.H., LL.M.</h4>
-							<p>Managing Partner at Adnan Buyung Nasution & Partners</p>
+							<h4>Indra Nathan Kusnadi, S.H., M.H</h4>
+							<!-- <p>Managing Partner at Adnan Buyung Nasution & Partners</p> -->
 						</div>
 					</a>
 				</div>
@@ -138,7 +138,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Ken Prasadtyo, S.H., LL.M.</h4>
+								<h4>Ken Prasadtyo, S.H., LL.M</h4>
 								<small class="fw-bold">Partner at Tjajo & Partners</small>
 							</div>
 							<div>
@@ -166,7 +166,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Benny Handoko, S.H., LL.M.</h4>
+								<h4>Benny Handoko, S.H., LL.M</h4>
 								<small class="fw-bold">Partner at AYMP Law Firm</small>
 							</div>
 							<div>
@@ -182,22 +182,24 @@
 		</div>
 	</div>
 
-	<!-- Modal Pia A.R. Akbar-Nasution, S.H., LL.M.-->
-	<div class="modal fade" id="detailPia" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+	<!-- Modal Indra Nathan Kusnadi, S.H., M.H-->
+	<div class="modal fade" id="detailIndra" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
 		<div class="modal-dialog modal-lg modal-dialog-scrollable">
 			<div class="modal-content">
 				<div class="modal-body">
 					<div class="row">
 						<div class="col-md-4">
-							<img class="rounded-circle" src=" <?= site_url('assets/images/cla2/Pia A.R. Akbar-Nasution, S.H., LL.M.png') ?>" alt="">
+							<img class="rounded-circle" src=" <?= site_url('assets/images/cla2/Indra Nathan Kusnadi, S.H., M.H.jpg') ?>" alt="">
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Pia A.R. Akbar-Nasution, S.H., LL.M.</h4>
-								<small class="fw-bold">Managing Partner at Adnan Buyung Nasution & Partners</small>
+								<h4>Indra Nathan Kusnadi, S.H., M.H</h4>
+								<!-- <small class="fw-bold">Managing Partner at Adnan Buyung Nasution & Partners</small> -->
 							</div>
 							<div>
-								<p style=" text-align: justify;">Pia is a licensed attorney and legal counsel to Capital Markets. She is a member of various legal associations, such as The Association of Indonesian Legal Consultants (AKHI), Indonesian Advocates Association (PERADI), Capital Market Legal Consultants (Himpunan Konsultan Hukum Pasar Modal/HKHPM), and the Chartered Institute of Arbitrators. She graduated from the Catholic University of Atmajaya in Indonesia with a bachelor's degree and then from Bond University in Australia with a master's degree. Pia currently works as a partner at Adnan Buyung Nasution & Partners.</p>
+								<p style=" text-align: justify;">Indra has assisted clients not only in litigation matters but also in non litigation matters such as corporate and commercial matters. He handles a wide range of commercial cases both at court and arbitration, criminal cases and corruption cases.</p>
+								<p style=" text-align: justify;">In handling such cases, he has been involved from the first stage of proceedings held at the District Court (Pengadilan Negeri), up to the highest stage at the Supreme Court (Mahkamah Agung). He has handled many administrative cases, of which proceedings are held at the State Administrative Court.</p>
+								<p style=" text-align: justify;">Indra’s industry practice areas are, among others: aviation, construction, mining, shipping, banking and finance, real estate, insurance, healthcare and pharmaceutical, agriculture and infrastructure.</p>
 							</div>
 						</div>
 					</div>
@@ -220,7 +222,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Rudi Bachtiar, S.H., LL.M.</h4>
+								<h4>Rudi Bachtiar, S.H., LL.M</h4>
 								<small class="fw-bold">Partner at ARMA Law</small>
 							</div>
 							<div>
@@ -247,7 +249,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Dendi Adisuryo, S.H.</h4>
+								<h4>Dendi Adisuryo, S.H</h4>
 								<small class="fw-bold">Managing Partner at ADCO Law</small>
 							</div>
 							<div>
@@ -275,7 +277,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Citra Maria, S.H.</h4>
+								<h4>Citra Maria, S.H</h4>
 								<small class="fw-bold">Legal & Compliance at PT. Terang Bagi Bangsa</small>
 							</div>
 							<div>
@@ -302,7 +304,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="mb-2">
-								<h4>Raymond Hioeras, S.H.</h4>
+								<h4>Raymond Hioeras, S.H</h4>
 								<small class="fw-bold">Senior Legal at Tokopedia</small>
 							</div>
 							<div>
