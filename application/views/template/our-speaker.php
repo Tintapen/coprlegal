@@ -194,7 +194,7 @@
 						<div class="col-md-8">
 							<div class="mb-2">
 								<h4>Indra Nathan Kusnadi, S.H., M.H</h4>
-								<!-- <small class="fw-bold">Managing Partner at Adnan Buyung Nasution & Partners</small> -->
+								<small class="fw-bold">Partner at Adnan Buyung Nasution & Partners</small>
 							</div>
 							<div>
 								<p style=" text-align: justify;">Indra has assisted clients not only in litigation matters but also in non litigation matters such as corporate and commercial matters. He handles a wide range of commercial cases both at court and arbitration, criminal cases and corruption cases.</p>
