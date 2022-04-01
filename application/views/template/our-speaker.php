@@ -44,7 +44,7 @@
 						</div>
 						<div class="skill-content">
 							<h4>Indra Nathan Kusnadi, S.H., M.H</h4>
-							<!-- <p>Managing Partner at Adnan Buyung Nasution & Partners</p> -->
+							<p>Partner at Adnan Buyung Nasution & Partners</p>
 						</div>
 					</a>
 				</div>
