@@ -1751,6 +1751,19 @@ hero area css
   z-index: -1;
 }
 
+@media (max-width: 896px) {
+	.hero-area::after {
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 30%;
+		top: 0;
+		left: 0;
+		background: rgba(1, 66, 141, 0.97);
+		z-index: -1;
+	}
+}
+
 /*============================
 skill css
 ============================= */
