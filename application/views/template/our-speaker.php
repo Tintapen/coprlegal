@@ -103,26 +103,43 @@
 			</div>
 			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+				<a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#detailYusufGinanjar">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/IMG-20220504-WA0013.jpg') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>Special Guest</h4>
-						<!-- <p>Recruitment Specialist at Siloam Hospitals Group</p> -->
+						<h4>Yusuf Ginanjar, S.T., M.M.</h4>
+						 <p>Human Resources Manager at Soemadipraja & Taher Law Firm</p>
 					</div>
+					</a>
 				</div>
 			</div>
-			<!-- <div class="col-xl-4 col-lg-4 col-md-6">
+			<div class="col-xl-4 col-lg-4 col-md-6">
 				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+				<a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#detailNelsonZelig">
 					<div class="">
-						<img src="<?= site_url('assets/images/cla2/avatar.png') ?>" alt="">
+						<img src="<?= site_url('assets/images/cla2/IMG-20220504-WA0012.jpg') ?>" alt="">
 					</div>
 					<div class="skill-content">
-						<h4>To Be Announced</h4>
-						<p>Great Speaker Will be Announced Soon !</p>
+						<h4>Nelson Zelig, S. Psi.</h4>
+						 <p>Recruitment Specialist at Siloam Hospital Group</p>
 					</div>
+					</a>
 				</div>
-			</div> -->
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6">
+				<div class="single-skill wow fadeInUp" data-wow-delay=".2s">
+				<a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#detailDivaDhamayantie">
+					<div class="">
+						<img src="<?= site_url('assets/images/cla2/IMG-20220504-WA0011.jpg') ?>" alt="">
+					</div>
+					<div class="skill-content">
+						<h4>Diva Dhamayantie, S. Psi.</h4>
+						 <p>Human Resources Executive at  Assegaf Hamzah & Partners Law Firm</p>
+					</div>
+					</a>
+				</div>
+			</div>
 		</div>
 	</div>
 
@@ -309,6 +326,87 @@
 							</div>
 							<div>
 								<p style=" text-align: justify;">Raymond is frequently involved in various M&A transactions and has been involved both as a member of the legal advisory team and as a lawyer in the preparation of the company for an IPO. He has previous experience working in law offices, which has given him the skills and knowledge to assist lawyers with legal research, preparing for court proceedings, and assisting clients with transactions documents. Raymond graduated from Atmajaya Jakarta University (S.H., with cum laude GPA. He was highly successful in student organization Atma Jaya Business Law Society, serving as a Director. He is currently concentrated in his career as a member of the Legal Investment Group.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Modal Yusuf Ginanjar, S.T., M.M.-->
+	<div class="modal fade" id="detailYusufGinanjar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg modal-dialog-scrollable">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-4">
+							<img class="rounded-circle" src=" <?= site_url('assets/images/cla2/IMG-20220504-WA0013.jpg') ?>" alt="">
+						</div>
+						<div class="col-md-8">
+							<div class="mb-2">
+								<h4>Yusuf Ginanjar, S.T., M.M.</h4>
+								<small class="fw-bold">Human Resources Manager at Soemadipraja & Taher Law Firm</small>
+							</div>
+							<div>
+								<p style=" text-align: justify;">Yusuf is a certified Human Resources Professional with over a decade of experience in Human Resources. He has experience in manpower planning, recruitment, performance management system development, employee welfare program development, and various other HR related fields. Yusuf works as a HR consultant at an IT consulting firm, providing advice and recommendations to HR personnel on everyday problems. He is currently working as Human Resources Manager for the Law Firm Soemadipraja & Taher. He was assigned to lead a team of human resources assistants, coordinating secretary and general affairs assistants.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Modal Nelson Zelig, S. Psi.-->
+	<div class="modal fade" id="detailNelsonZelig" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg modal-dialog-scrollable">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-4">
+							<img class="rounded-circle" src=" <?= site_url('assets/images/cla2/IMG-20220504-WA0012.jpg') ?>" alt="">
+						</div>
+						<div class="col-md-8">
+							<div class="mb-2">
+								<h4>Nelson Zelig, S. Psi.</h4>
+								<small class="fw-bold">Recruitment Specialist at Siloam Hospital Group</small>
+							</div>
+							<div>
+								<p style=" text-align: justify;">Nelson is an experienced recruitment consultant with experience in the recruitment process, training, assessment, and research. He has worked as a Recruitment Consultant at PT. JAC Recruitment Indonesia. Responsible to search, identify, and approach suitable candidates who may already be in work through the use of JAC's extensive candidate database, LinkedIn, and other sources, organize interviews for candidates, etc. Nelson is currently working as a Recruitment Specialist at Siloam Hospital Group.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Modal Diva Dhamayantie, S. Psi.-->
+	<div class="modal fade" id="detailDivaDhamayantie" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg modal-dialog-scrollable">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-4">
+							<img class="rounded-circle" src=" <?= site_url('assets/images/cla2/IMG-20220504-WA0011.jpg') ?>" alt="">
+						</div>
+						<div class="col-md-8">
+							<div class="mb-2">
+								<h4>Diva Dhamayantie, S. Psi.</h4>
+								<small class="fw-bold">Human Resources Executive at  Assegaf Hamzah & Partners Law Firm</small>
+							</div>
+							<div>
+								<p style=" text-align: justify;">Diva specializes in handling entry level and end-to-end recruitment of experiences associates and departmental staffs. She is responsible for assisting in the Employee Wellbeing Program. She also an active contributor to Cinta Setara Community, researching and creating content, developing and assisting in online and offline events, including the Jakarta Clinical Psychologist Association events. Diva is currently working as an HR Executive at Assegaf Hamzah & Partners Law Firm.</p>
 							</div>
 						</div>
 					</div>
